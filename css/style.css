@@ -139,7 +139,7 @@ Nav
 	height:100%;
 }
 .bartop{
-	padding:20px;
+	padding:20px 0 20px 10px;
 	text-align: center;
 }
 .bartop .logo{
@@ -166,7 +166,7 @@ Nav
 	letter-spacing: 2px;
 }
 .barbottom{
-	padding:0 10px 20px 30px;
+	padding:0 0 20px 20px;
 }
 
 .iconlist li{
