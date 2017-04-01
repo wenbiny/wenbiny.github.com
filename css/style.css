@@ -131,10 +131,10 @@ Nav
 	float:left;
 	height:100%;
 	background: #5dc9c3;
-	width:50px;
+	width:30px;
 }
 .mask{
-	margin-left:50px;
+	margin-left:30px;
 	background: rgba(255,255,255,.82);
 	height:100%;
 }
